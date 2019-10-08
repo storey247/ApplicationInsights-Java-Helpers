@@ -12,9 +12,9 @@ Fear not, this helper library will give you a nice handy wrapper to work with :g
 
 ```xml
 <dependency>
-    <groupId>com.evanlennick</groupId>
-    <artifactId>retry4j</artifactId>
-    <version>0.15.0</version>
+  <groupId>com.github.storey247/applicationinsights-java-helpers</groupId>
+  <artifactId>com.storey247.applicationinsights-java-helpers</artifactId>
+  <version>0.1.0-snaphot</version>
 </dependency>
 ```
 
